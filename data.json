@@ -1,0 +1,14 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "Let's chat!",
+      "description": "What is one interesting thing you've done today?",
+      "color": 3092790,
+      "footer": {
+        "text": "Credits: github.com/ToolifyStudios/chat-reviver-discord"
+      }
+    }
+  ],
+  "attachments": []
+}
